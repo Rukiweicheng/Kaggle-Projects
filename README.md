@@ -11,3 +11,8 @@
   * Discover the relationship of daily oil prices to sales volume
   * Investigate how does holidays and events impact sales
    * Investigate promotion effectiveness
+   
+## HR Analytics
+This project is from an interview where I was asked to find out important factors that lead employees to churn.
+
+## Marketing Analytics
