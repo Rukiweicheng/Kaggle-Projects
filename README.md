@@ -1,5 +1,10 @@
 # School Courseworks
 
+## Airbnb Analytics
+* **Introduction**
+
+* **Project Goals**
+
 ## Supermarket Sales Analysis
 * **Introduction**
 
